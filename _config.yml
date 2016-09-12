@@ -38,3 +38,8 @@ facebook:
 twitter:
   username:     coralproject
 
+# Redirects
+custom_redirects:
+  - from: ^/change-of-focus$
+    to: http://blog.coralproject.net/change-of-focus/
+    type: permanent
